@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "12.16.1",
+  "description": "simple web app",
+  "main": "HelloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parker-lioa/Intro-to-Node.git"
+  },
+  "author": "Parker Lioa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parker-lioa/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/parker-lioa/Intro-to-Node#readme"
+}
